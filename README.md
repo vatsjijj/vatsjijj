@@ -1,3 +1,3 @@
-hey, im marley, ive been programming for about a decade at this point
+hey, im azimuth, ive been programming for about a decade at this point
 
 i make tools and specialize in compilers
